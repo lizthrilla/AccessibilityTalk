@@ -6,7 +6,7 @@
     * What qualifies as a disability is broad and encompassing
     * Categories: hearing, visual, cognitive, motor, seizure
     * Aging populations
-3.   Accessibility and the law
+3. Accessibility and the law
     * Over 800 accessibility law suits last year
     * Unprecedented number of lawsuits in 2017 and numbers will continue to grow
     * The ADA and web and mobile accessibility
