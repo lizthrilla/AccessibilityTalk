@@ -1,14 +1,11 @@
 # Outline
 
 1. "Why Should I care?"
-
-..* If you don't, who will?
-
-1. 1 in 5 Americans experience disabilities--whether permanently or temporarily.
-
-..* What qualifies as a disability is broad and encompassing
-..* Categories: hearing, visual, cognitive, motor, seizure
-..* Aging populations
+* If you don't, who will?
+2. 1 in 5 Americans experience disabilities--whether permanently or temporarily.
+* What qualifies as a disability is broad and encompassing
+* Categories: hearing, visual, cognitive, motor, seizure
+* Aging populations
 
 1. Accessibility and the law
 
